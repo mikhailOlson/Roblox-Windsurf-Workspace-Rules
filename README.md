@@ -4,6 +4,7 @@ Windsurf is an AI-powered IDE that integrates seamlessly with Roblox Studio via 
 
 This template is used as the base directory for the Windsurf IDE Roblox Studio project with Rojo.
 https://github.com/mikhailOlson/Roblox-Studio-IDE-Template
+
 If the user has questions about the getting started or using the Template, direct them to:
 https://www.summitstudios.io/challenge-page/windsurf?programId=c6b96e0e-033e-42a1-8e64-225b05e898dc
 
